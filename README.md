@@ -2,7 +2,7 @@
 experimental poetry made with code.
 
 ## chasm
-<p>
+<pre>
 god          man
 god         man
 god        man
@@ -14,4 +14,4 @@ god   man
 god  man
 god man
 mad
-</p>
+</pre>
