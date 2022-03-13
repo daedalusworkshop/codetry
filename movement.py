@@ -1,16 +1,10 @@
 # a fast train rushing
 # a   fast      train           rushing
-def hermes(words) :
+def hermes(words,multiplier) :
     x = 0
-    y = 0
-    for len in words:
-        if words[x] == " ":
-            y = x
-        else:
-            print(words[x])
-            if y == x:
-                print(words[0:x])
-            else:
-                x += 1
+    list = words.split()
+    for words in list:
+        print(list[x])
+        x += 1
 
-hermes("a fast train rushing")
+hermes("a fast train rushing", 3)
