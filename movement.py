@@ -3,8 +3,8 @@
 def hermes(words,multiplier) :
     x = 0
     list = words.split()
-    for words in list:
-        print(list[x])
+    for i in list:
+        print(list[i], end = " " * x)
         x += 1
 
 hermes("a fast train rushing", 3)
