@@ -15,3 +15,8 @@ god  man
 god man
 mad
 </pre>
+
+## movement
+<pre>
+a   fast      train            passing
+</pre>
